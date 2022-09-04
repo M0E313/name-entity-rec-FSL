@@ -1,0 +1,12 @@
+beautifulsoup4==4.11.1
+concise-concepts==0.5.4
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.4.0/en_core_web_sm-3.4.0-py3-none-any.whl
+fitz==0.0.1.dev2
+gensim==4.2.0
+pydantic==1.9.1
+PyMuPDF==1.20.1
+spacy==3.4.1
+spacy-streamlit==1.0.4
+streamlit==1.11.0
+sumy==0.10.0
+frontend
